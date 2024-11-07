@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Handler Six</h1>
 <h3 align="center">Someone who is someone who is someone which is someone</h3>
 
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/187145636?v=4" alt="handlersix" /> </p>
 
 - 🔭 I’m currently working on **Nothing.**
 
