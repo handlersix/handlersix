@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **C#**
 
-- 👨‍💻 All of my projects are available on [My github profile lol...](My github profile lol...)
+- 👨‍💻 All of my projects are available on [My github profile lol...](https://github.com/handlersix)
 
 - ⚡ Fun fact **I identify as a human who is a human**
 
