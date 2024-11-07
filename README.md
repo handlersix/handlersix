@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Handler Six</h1>
 <h3 align="center">Someone who is someone who is someone which is someone</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=handlersix&label=Profile%20views&color=0e75b6&style=flat" alt="handlersix" /> </p>
+<p align="left"> <img src="https://avatars.githubusercontent.com/u/187145636?v=4" alt="handlersix" /> </p>
 
 - 🔭 I’m currently working on **Nothing.**
 
