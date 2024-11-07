@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Handler Six</h1>
 <h3 align="center">Someone who is someone who is someone which is someone</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=handlersix&label=Profile%20views&color=0e75b6&style=flat" alt="handlersix" /> </p>
 
 - 🔭 I’m currently working on **Nothing.**
 
@@ -8,11 +9,11 @@
 
 - 🤝 I’m looking for help with **C#**
 
-- 👨‍💻 All of my projects are available on [My github profile lol...](https://github.com/handlersix)
+- 👨‍💻 All of my projects are available on [My github profile lol...](My github profile lol...)
 
 - ⚡ Fun fact **I identify as a human who is a human**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Idk:</h3>
 <p align="left">
 </p>
 
