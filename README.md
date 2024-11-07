@@ -1,25 +1,32 @@
-<h1 align="center">Hi 👋, I'm Handler Six</h1>
-<h3 align="center">Someone who is someone who is someone which is someone</h3>
+# ⭐ Handler Six
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=handlersix&label=Profile%20views&color=0e75b6&style=flat" alt="handlersix" /> </p>
+**`Backend Developer`**
 
-- 🔭 I’m currently working on **Nothing.**
+Hello, I'm Handler Six! I'm a developer from Saudi Arabia (living in USA), wanting to do nice stuff on the internet and just code stuff..
 
-- 🌱 I’m currently learning **C#**
+   <p align="left">
+      <a href="https://www.youtube.com/c/obama">
+         <img alt="github views" title="Profile views" src="https://komarev.com/ghpvc/?username=handlersix&style=for-the-badge&labelColor=#ffa1eb"/></a> 
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/handlersix?color=55960c&style=for-the-badge&labelColor=488207&logo=sta"/></a>
+   </p>
 
-- 🤝 I’m looking for help with **C#**
+---
 
-- 👨‍💻 All of my projects are available on [My github profile lol...](My github profile lol...)
+### 🧰 Languages and Tools
 
-- ⚡ Fun fact **I identify as a human who is a human**
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<br />
 
-<h3 align="left">Idk:</h3>
-<p align="left">
-</p>
+#
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=handlersix&show_icons=true&locale=en" alt="handlersix" /></p>
+### 📊 Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=handlersix&" alt="handlersix" /></p>
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=handlersix&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+[website]: https://cia.gov
+[youtube]: https://youtube.com/Obama
