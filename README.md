@@ -9,7 +9,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=handlersix&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=true&custom_title=Languages%20Used" alt="Languages Used" height="300" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=handlersix&hide_border=true&theme=high-contrast&title_color=ffb000&line=ffb000&radius=169&area=true&area_color=785ef0" alt="Activity Graph" height="205" /><br>
   </a>&nbsp
-  <a href='https://ko-fi.com/warfin' target="_blank"><img alt='Ko-fi' src='https://img.shields.io/badge/Kofi-100000?style=for-the-badge&logo=Ko-fi&logoColor=white&labelColor=black&color=ffb000'/></a><br>
 </p>
 
 <p align="center">
